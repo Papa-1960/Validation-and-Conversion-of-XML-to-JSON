@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+	<!-- Example from Figure 1 -->
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<!-- Real Hotels -->
+	<Hotel Rating="5.0">
+		<Name>The Phoenician</Name>
+		<Phone>480-941-8200</Phone>
+		<Address NearestAirport="PHX">
+			<Number>6000</Number>
+			<Street>E Camelback Rd</Street>
+			<City>Scottsdale</City>
+			<State>AZ</State>
+			<Zip>85251</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Hampton Inn Phoenix</Name>
+		<Phone>602-269-1110</Phone>
+		<Address>
+			<Number>1600</Number>
+			<Street>W Camelback Rd</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85015</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.0">
+		<Name>Hyatt Regency Tucson</Name>
+		<Phone>520-323-6262</Phone>
+		<Phone>800-555-1234</Phone>
+		<Address NearestAirport="TUS">
+			<Number>100</Number>
+			<Street>E 2nd St</Street>
+			<City>Tucson</City>
+			<State>AZ</State>
+			<Zip>85721</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Marriott Mesa</Name>
+		<Phone>480-898-8300</Phone>
+		<Address>
+			<Number>200</Number>
+			<Street>N Centennial Way</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<Zip>85201</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.5">
+		<Name>Hilton Garden Inn Flagstaff</Name>
+		<Phone>928-226-0200</Phone>
+		<Address NearestAirport="FLG">
+			<Number>350</Number>
+			<Street>W Forest Meadows St</Street>
+			<City>Flagstaff</City>
+			<State>AZ</State>
+			<Zip>86001</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Best Western Inn Yuma</Name>
+		<Phone>928-783-8341</Phone>
+		<Phone>800-555-5678</Phone>
+		<Address>
+			<Number>1450</Number>
+			<Street>S Castle Dome Ave</Street>
+			<City>Yuma</City>
+			<State>AZ</State>
+			<Zip>85365</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.5">
+		<Name>Ritz-Carlton Dove Mountain</Name>
+		<Phone>520-572-3000</Phone>
+		<Address NearestAirport="TUS">
+			<Number>15000</Number>
+			<Street>N Secret Springs Dr</Street>
+			<City>Marana</City>
+			<State>AZ</State>
+			<Zip>85658</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>DoubleTree Sedona</Name>
+		<Phone>928-282-9119</Phone>
+		<Address>
+			<Number>100</Number>
+			<Street>El Portal Dr</Street>
+			<City>Sedona</City>
+			<State>AZ</State>
+			<Zip>86336</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.8">
+		<Name>Sheraton Grand Phoenix</Name>
+		<Phone>602-262-2500</Phone>
+		<Phone>800-555-9012</Phone>
+		<Address NearestAirport="PHX">
+			<Number>340</Number>
+			<Street>N 3rd St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85004</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>La Quinta Inn Chandler</Name>
+		<Phone>480-855-1919</Phone>
+		<Address>
+			<Number>15241</Number>
+			<Street>S 50th St</Street>
+			<City>Chandler</City>
+			<State>AZ</State>
+			<Zip>85044</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
